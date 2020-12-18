@@ -1,4 +1,4 @@
-from . import glee, ksbot
+from . import ksbot
 
 def Agent():
     return ksbot.Agent()
